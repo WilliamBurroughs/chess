@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import BoardComponent from "./components/BoardCompotent";
-import CellComponent from "./components/CellComponent";
+// import CellComponent from "./components/CellComponent";
 import { Board } from "./models/Board";
 
 const App = () => {
